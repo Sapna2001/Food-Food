@@ -1,3 +1,9 @@
+# FOOD FOOD
+A web app to search for the receipe of various dishes.
+
+# Screenshot
+![demo](https://user-images.githubusercontent.com/56690856/100467373-5b7eee80-30f8-11eb-8876-46fa0401173e.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
