@@ -1,6 +1,6 @@
 # FOOD FOOD
 A web app to search for the receipe of various dishes. </br>
-[Visit](https://food-food-recipe.herokuapp.com/)
+[View it](https://food-food-recipe.herokuapp.com/)
 
 # Screenshot
 ![demo](https://user-images.githubusercontent.com/56690856/100467373-5b7eee80-30f8-11eb-8876-46fa0401173e.png)
