@@ -1,5 +1,5 @@
 # FOOD FOOD
-A web app to search for the receipe of various dishes. </br>
+A web app to search for the recipe of various dishes. </br>
 [View it](https://food-food-recipe.herokuapp.com/)
 
 # Screenshot
