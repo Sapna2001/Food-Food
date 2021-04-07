@@ -9,6 +9,7 @@
   display: flex;
   justify-content: center;
   align-content: center;
+  flex-wrap: wrap;
   padding: 8vh;
 }
 
@@ -141,5 +142,28 @@ a {
 
   .searchBar {
     min-width: 90%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .searchForm {
+    flex-direction: column;
+    display: flex;
+    justify-content:center;
+  }
+  .searchBar{
+    margin: 10px;
+    width: 60%;
+  }
+  .searchButton {
+    width: 50%;
+  }
+  .box {
+    width: 80%;
+    border-radius: 0;
+  }
+  .container{
+    display: flex;
+    justify-content:center;
   }
 }
